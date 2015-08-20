@@ -1,0 +1,189 @@
+
+/* Content Custom Icons
+-------------------------------------------------- */
+
+.ccicon {
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.ccicon-article-writing-services {
+    background-image: url("../images/icons/article-writing-services.png");
+}
+.ccicon-blog-writing-services {
+    background-image: url("../images/icons/blog-writing-services.png");
+}
+.ccicon-ebook-writing-services {
+    background-image: url("../images/icons/ebook-writing-services.png");
+}
+.ccicon-press-release-writing-services {
+    background-image: url("../images/icons/press-release-writing-services.png");
+}
+.ccicon-seo-copywriting {
+    background-image: url("../images/icons/seo-copywriting.png");
+}
+.ccicon-white-paper-writing-services {
+    background-image: url("../images/icons/white-paper-writing-services.png");
+}
+
+.ccicon-competitive-analysis-services {
+    background-image: url("../images/icons/competitive-analysis-services.png");
+}
+.ccicon-keyword-research-services {
+    background-image: url("../images/icons/keyword-research-services.png");
+}
+.ccicon-link-building-services {
+    background-image: url("../images/icons/link-building-services.png");
+}
+.ccicon-reputation-management-services {
+    background-image: url("../images/icons/reputation-management-services.png");
+}
+.ccicon-social-media-services {
+    background-image: url("../images/icons/social-media-services.png");
+}
+.ccicon-webinar-generation-services {
+    background-image: url("../images/icons/webinar-generation-services.png");
+}
+.ccicon-website-analysis-services {
+    background-image: url("../images/icons/website-analysis-services.png");
+}
+
+.ccicon-design-services {
+    background-image: url("../images/icons/design-services.png");
+}
+.ccicon-development-services {
+    background-image: url("../images/icons/development-services.png");
+}
+.ccicon-website-hosting-services {
+    background-image: url("../images/icons/website-hosting-services.png");
+}
+
+.ccicon-our-team {
+    background-image: url("../images/icons/our-team.png");
+}
+.ccicon-process {
+    background-image: url("../images/icons/process.png");
+}
+.ccicon-price-list {
+    background-image: url("../images/icons/price-list.png");
+}
+.ccicon-faq {
+    background-image: url("../images/icons/faq.png");
+}
+.ccicon-contact {
+    background-image: url("../images/icons/contact.png");
+}
+
+.ccicon-samples-banners {
+    background-image: url("../images/icons/samples-banners.png");
+}
+.ccicon-samples-images-logos {
+    background-image: url("../images/icons/samples-images-logos.png");
+}
+.ccicon-samples-website-design {
+    background-image: url("../images/icons/samples-website-design.png");
+}
+.ccicon-long-term {
+    background-image: url("../images/icons/long-term.png");
+}
+.ccicon-long-term-link-building {
+    background-image: url("../images/icons/long-term-link-building.png");
+}
+
+
+
+/* Panels
+-------------------------------------------------- */
+
+/* Orange Panel */
+.panel-orange > .panel-heading {
+    color: #ffffff;
+    background-color: #e25a2b;
+    border-color: #e25a2b;
+}
+.panel-orange > .panel-heading {
+    background-image: -webkit-linear-gradient(top, #e25a2b 0, #b74219 100%);
+    background-image: -o-linear-gradient(top, #e25a2b 0, #b74219 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #e25a2b), to(#b74219));
+    background-image: linear-gradient(to bottom, #e25a2b 0, #b74219 100%);
+    background-repeat: repeat-x;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffe25a2b', endColorstr='#ffb74219', GradientType=0);
+}
+
+/* Yellow Panel */
+.panel-yellow > .panel-heading {
+    color: #ffffff;
+    background-color: #f0ad4e;
+    border-color: #f0ad4e;
+}
+.panel-yellow > .panel-heading {
+    background-image: -webkit-linear-gradient(top, #f0ad4e 0, #eb9316 100%);
+    background-image: -o-linear-gradient(top, #f0ad4e 0, #eb9316 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #f0ad4e), to(#eb9316));
+    background-image: linear-gradient(to bottom, #f0ad4e 0, #eb9316 100%);
+    background-repeat: repeat-x;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff0ad4e', endColorstr='#ffeb9316', GradientType=0);
+}
+
+/* Blue Panel */
+.panel-blue > .panel-heading {
+    color: #ffffff;
+    background-color: #0b97cc;
+    border-color: #0b97cc;
+}
+.panel-blue > .panel-heading {
+    background-image: -webkit-linear-gradient(top, #0b97cc 0, #215198 100%);
+    background-image: -o-linear-gradient(top, #0b97cc 0, #215198 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #0b97cc), to(#215198));
+    background-image: linear-gradient(to bottom, #0b97cc 0, #215198 100%);
+    background-repeat: repeat-x;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff0b97cc', endColorstr='#ff215198', GradientType=0);
+}
+
+/* Gray Panel */
+.panel-gray > .panel-heading {
+    color: #ffffff;
+    background-color: #666666;
+    border-color: #474747;
+}
+.panel-gray > .panel-heading {
+    background-image: -webkit-linear-gradient(top, #666666 0, #474747 100%);
+    background-image: -o-linear-gradient(top, #666666 0, #474747 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #666666), to(#474747));
+    background-image: linear-gradient(to bottom, #666666 0, #474747 100%);
+    background-repeat: repeat-x;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff666666', endColorstr='#ff474747', GradientType=0);
+}
+
+
+/* Buttons
+-------------------------------------------------- */
+.btn-gray {
+    color: #ffffff;
+    background-image: -webkit-linear-gradient(top, #666666 0, #474747 100%);
+    background-image: -o-linear-gradient(top, #666666 0, #474747 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #666666), to(#474747));
+    background-image: linear-gradient(to bottom, #666666 0, #474747 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff666666', endColorstr='#ff474747', GradientType=0);
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+    background-repeat: repeat-x;
+    border-color: #444444
+}
+.btn-gray:hover,.btn-gray:focus {
+    color: #ffffff;
+    background-color: #474747;
+    background-position: 0 -15px
+}
+
+.btn-gray:active,.btn-gray.active {
+    color: #ffffff;
+    background-color: #474747;
+    border-color: #444444
+}
+
+.btn-gray.disabled,.btn-gray[disabled],fieldset[disabled] .btn-gray,.btn-gray.disabled:hover,.btn-gray[disabled]:hover,fieldset[disabled] .btn-gray:hover,.btn-gray.disabled:focus,.btn-gray[disabled]:focus,fieldset[disabled] .btn-gray:focus,.btn-gray.disabled.focus,.btn-gray[disabled].focus,fieldset[disabled] .btn-gray.focus,.btn-gray.disabled:active,.btn-gray[disabled]:active,fieldset[disabled] .btn-gray:active,.btn-gray.disabled.active,.btn-gray[disabled].active,fieldset[disabled] .btn-gray.active {
+    color: #ffffff;
+    background-color: #474747;
+    background-image: none
+}
