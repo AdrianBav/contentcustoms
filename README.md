@@ -32,4 +32,4 @@ contentcustoms/
 ¦   	+-- scroller.php
 ```
 
-The point of interest here is the styles.css file which builds on the bootstrap CSS to customize it's components to achieve the Content Customs look. The cc-theme.css file works similar to the Bootstrap theme in that it provides color gradients and styles unique to Content Customs.
+The point of interest here is the **styles.css** file which builds on the bootstrap CSS to customize it's components to achieve the Content Customs look. The **cc-theme.css** file works similar to the Bootstrap theme in that it provides color gradients and styles unique to Content Customs.
