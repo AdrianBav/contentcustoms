@@ -1,4 +1,4 @@
-# [Content Customs]
+# Content Customs
 
 Content Customs is a company that specialises in content writing services, website design, development and SEO & marketing. The company website was not responsive and was therefor not very readable on hand held devices.
 
