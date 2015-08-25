@@ -5,19 +5,29 @@
 .ccicon {
     background-color: transparent;
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: left top;
+    height: 16px;
+    width: 16px;
+    font-size: 16px;
+    line-height: 1;
+    padding-left: 25px;
 }
 
-.ccicon-article-writing-services {
+/* Content Writing Services */
+.ccicon-article-writing-services,
+.ccicon-samples-articles {
     background-image: url("../images/icons/article-writing-services.png");
 }
-.ccicon-blog-writing-services {
+.ccicon-blog-writing-services,
+.ccicon-samples-blog-posts {
     background-image: url("../images/icons/blog-writing-services.png");
 }
-.ccicon-ebook-writing-services {
+.ccicon-ebook-writing-services,
+.ccicon-samples-ebooks {
     background-image: url("../images/icons/ebook-writing-services.png");
 }
-.ccicon-press-release-writing-services {
+.ccicon-press-release-writing-services,
+.ccicon-samples-press-releases {
     background-image: url("../images/icons/press-release-writing-services.png");
 }
 .ccicon-seo-copywriting {
@@ -27,10 +37,13 @@
     background-image: url("../images/icons/white-paper-writing-services.png");
 }
 
-.ccicon-competitive-analysis-services {
+/* SEO & Marketing */
+.ccicon-competitive-analysis-services,
+.ccicon-samples-competitive-analysis {
     background-image: url("../images/icons/competitive-analysis-services.png");
 }
-.ccicon-keyword-research-services {
+.ccicon-keyword-research-services,
+.ccicon-samples-keyword-research {
     background-image: url("../images/icons/keyword-research-services.png");
 }
 .ccicon-link-building-services {
@@ -45,11 +58,14 @@
 .ccicon-webinar-generation-services {
     background-image: url("../images/icons/webinar-generation-services.png");
 }
-.ccicon-website-analysis-services {
+.ccicon-website-analysis-services,
+.ccicon-samples-website-analysis {
     background-image: url("../images/icons/website-analysis-services.png");
 }
 
-.ccicon-design-services {
+/* Design & Development */
+.ccicon-design-services,
+.ccicon-samples-images-logos {
     background-image: url("../images/icons/design-services.png");
 }
 .ccicon-development-services {
@@ -59,6 +75,7 @@
     background-image: url("../images/icons/website-hosting-services.png");
 }
 
+/* About Us */
 .ccicon-our-team {
     background-image: url("../images/icons/our-team.png");
 }
@@ -75,6 +92,7 @@
     background-image: url("../images/icons/contact.png");
 }
 
+/* Service Examples */
 .ccicon-samples-banners {
     background-image: url("../images/icons/samples-banners.png");
 }
@@ -84,6 +102,8 @@
 .ccicon-samples-website-design {
     background-image: url("../images/icons/samples-website-design.png");
 }
+
+/* Long Term Packages */
 .ccicon-long-term {
     background-image: url("../images/icons/long-term.png");
 }
