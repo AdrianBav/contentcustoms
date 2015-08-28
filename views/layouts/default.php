@@ -4,13 +4,13 @@
     {{ theme:partial name="head" }}
 
     <body>
-        
+
         {{ theme:partial name="header" }}
 
         <!-- Page Structure -->
         <div class="container">
             {{ theme:partial name="scroller" }}
-            
+
             <div id="content-wrapper">
                 <div class="row">
 
@@ -21,12 +21,14 @@
 
                     <!-- Sidebar -->
                     <div class="col-xs-12 col-md-3">
-                        
+
                         <div id="sidebar">
-                            {{ sidebars:sidebar sidebar_id=sidebar default_sidebar="1" }}
+                            <div class="row">
+                                {{ sidebars:sidebar sidebar_id=sidebar default_sidebar="1" }}
+                            </div>
                         </div>
-                        
-                    </div>  
+
+                    </div>
 
                 </div>
             </div>

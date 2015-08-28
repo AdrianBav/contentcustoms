@@ -76,7 +76,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <span class="navbar-brand hidden-lg">Menu</span>
+                    <span class="navbar-brand hidden-md hidden-lg">Menu</span>
                 </div>
 
                 <!-- Nav links -->
@@ -84,16 +84,14 @@
                 {{ navigations:nav nav_id="1" class="nav navbar-nav" }}
                 {{ if top }}
 	                {{ if children }}
-	                    <a href="{{ url }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ title }} <span class="caret"></span></a>
+	                    <span class="parent-link"><a href="{{ url }}">{{ title }}</a></span>
+                        <a href="{{ url }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="parent-title">{{ title }}</span> <span class="caret"></span></a>
+                        <div class="clearfix"></div>
 	                {{ else }}
 	                    <a href="{{ url }}">{{ title }}</a>
 	                {{ endif }}
 	            {{ else }}
-	                {{ if children }}
-	                    <a href="{{ url }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="ccicon ccicon-{{ icon }}">{{ title }}</span> <span class="caret"></span></a>
-	                {{ else }}
-	                    <a href="{{ url }}"><span class="ccicon ccicon-{{ icon }}">{{ title }}</span></a>
-	                {{ endif }}
+                    <a href="{{ url }}"><span class="ccicon ccicon-{{ icon }}">{{ title }}</span></a>
                 {{ endif }}
                 {{ /navigations:nav }}
                 </div>
