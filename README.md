@@ -6,7 +6,7 @@ Content Customs is a company that specialises in content writing services, websi
 
 The goal of this project was to retrofit the website and make it responsive so that it could be accessed on a range of mobile devices.
 
-### Structure
+## Structure
 
 The Bootstrap CSS has been added to the theme to make use of its responsive grid system and helpers. The layout and partials have been modified to hook into the Bootstrap CSS.
 
